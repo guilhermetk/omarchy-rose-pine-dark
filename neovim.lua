@@ -2,6 +2,7 @@ return {
 	{
 		"rose-pine/neovim",
 		name = "rose-pine",
+		priority = 1000,
 		-- Customize theme specs, e.g: disable italic. For full spec: https://github.com/rose-pine/neovim
 		-- config = function()
 		-- require("rose-pine").setup({
